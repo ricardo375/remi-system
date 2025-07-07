@@ -1,0 +1,6 @@
+python-dotenv
+requests
+openai
+notion-client
+gspread
+oauth2client
